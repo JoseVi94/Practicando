@@ -1,0 +1,23 @@
+.contenedor {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.card {
+    margin-top: 20px;
+}
+
+footer {
+
+    display: flex;
+    justify-content: center;
+    background-color: aqua;
+    margin-top: 40px;
+
+}
+
+.textofooter {
+    font-size: 40px;
+    margin-top: auto;
+}
